@@ -8,7 +8,7 @@
 
 return array(
     'default' => array(
-        'server_name' => 'localhost',
+        'server_name' => 'remote-server-name',
         'user_name' => 'root',
         'password' => '',
         'database' => 'pet',
